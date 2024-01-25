@@ -1,0 +1,3 @@
+/Users/rssolgaleo/CLionProjects/selectsort/cmake-build-debug/CMakeFiles/selectsort.dir
+/Users/rssolgaleo/CLionProjects/selectsort/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/rssolgaleo/CLionProjects/selectsort/cmake-build-debug/CMakeFiles/rebuild_cache.dir
